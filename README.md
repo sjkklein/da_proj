@@ -43,7 +43,7 @@ It is easier to stay motivated with tangible item
         * Isaac has 3 identical mics. Make assembly, take recordings to look at data.
         * Take coordinte origin as the center of the 3 mics
                 * find point in space of source or sound relative to origin
-
+        * 3 mics, 3 separate tracks/files
 
 
 
